@@ -1,0 +1,12 @@
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\bin\Debug\Table.exe.config
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\bin\Debug\Table.exe
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\bin\Debug\Table.pdb
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\obj\Debug\Table.csprojResolveAssemblyReference.cache
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\obj\Debug\Table.Form1.resources
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\obj\Debug\Table.Properties.Resources.resources
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\obj\Debug\Table.csproj.GenerateResource.Cache
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\obj\Debug\Table.exe
+C:\Users\bilal\Desktop\Visual Studio Files\Table\Table\obj\Debug\Table.pdb
+C:\Users\bilal\Desktop\Visual Studio Files\Windows Application\Table\Table\bin\Debug\Table.exe.config
+C:\Users\bilal\Desktop\Visual Studio Files\Windows Application\Table\Table\obj\Debug\Table.exe
+C:\Users\bilal\Desktop\Visual Studio Files\Windows Application\Table\Table\obj\Debug\Table.pdb
